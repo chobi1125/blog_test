@@ -19,7 +19,7 @@
     "axios": "^0.19.2",
     "contentful": "^7.14.0",
     "material-icons": "^0.3.1",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "nuxt-fontawesome": "^0.4.0",
     "vuesax": "^3.11.13"
   },
